@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "username": "gorenet",
+        "id": "usr_7c10c9ea-d3e9-48fd-a1f9-18013f98b891",
+        "tags": ["Syvora Dev"]
+      },
+      {
+        "username": "internet",
+        "id": "usr_cb7c9029-85df-43c6-8d81-ffeb3c6b5bc6",
+        "tags": ["Syvora Dev"]
+      },
+      {
+        "username": "Aki",
+        "id": "usr_e833851e-c3fa-4025-bb7c-f0ca0157f140",
+        "tags": ["Beta User", "Akimara"]
+      },
+      {
+        "username": "Elija",
+        "id": "usr_0cb1ae43-175f-4835-b0b6-61dea88bcd14",
+        "tags": ["Beta User"]
+      },
+      {
+        "username": "Waffle",
+        "id": "usr_a6d25d26-082e-4971-a571-15704be08670",
+        "tags": ["Beta User", "LEEK"]
+      }
+    ]
+  }
+  
