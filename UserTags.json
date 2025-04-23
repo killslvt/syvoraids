@@ -1,0 +1,45 @@
+{
+    "usr_18e41699-c5f5-4edb-a15e-c07e8699e18e": {
+      "position": [25, 0],
+      "text": "<b><i><color=#EC13EC>C</color><color=#CE10CE>H</color><color=#B10EB1>O</color><color=#930B93>K</color><color=#760976>E</color> <color=#3B043B>M</color><color=#1D021D>E</color></i></b>",
+      "color": "#FFFFFF",
+      "fontSize": 50,
+      "plateBackground": false
+    },
+    "usr_f60e6ae9-b500-4282-8f61-7cc1f15c4bbc": {
+      "position": [25, 0],
+      "text": "LEEK",
+      "color": "#90ee90",
+      "fontSize": 50,
+      "plateBackground": false
+    },
+    "usr_da918c07-01b0-4f09-8d14-bcc80e043720": {
+      "position": [25, 0],
+      "text": "<b><i><color=#FF0000>W</color><color=#BF0000>E</color><color=#7F0000>B</color><color=#3F0000>Z</color></i></b>",
+      "color": "#FFFFF",
+      "fontSize": 50,
+      "plateBackground": false
+    },
+    "usr_d7c5b4a5-93ba-4013-8071-c575c46b6463": {
+      "position": [25, 0],
+      "text": "<b><i><color=#4285F4>G</color><color=#34A853>O</color><color=#FBBC05>O</color><color=#EA4335>G</color><color=#4285F4>L</color><color=#34A853>E</color></i></b>",
+      "color": "#FFFFF",
+      "fontSize": 50,
+      "plateBackground": false
+    },
+    "usr_c9f34402-0a28-4c09-b5bd-f17a63baa5a9": {
+      "position": [25, 0],
+      "text": "<b><i><color=#4285F4>G</color><color=#34A853>O</color><color=#FBBC05>O</color><color=#EA4335>G</color><color=#4285F4>L</color><color=#34A853>E</color></i></b>",
+      "color": "#FFFFF",
+      "fontSize": 50,
+      "plateBackground": false
+    },
+    "usr_7238ede0-efdc-4123-ad21-691b5e51b591": {
+      "position": [25, 0],
+      "text": "LURKING",
+      "color": "#FFFFFF",
+      "fontSize": 18,
+      "plateBackground": true
+    }
+  }
+  
